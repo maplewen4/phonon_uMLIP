@@ -36,5 +36,5 @@ To generate the force constants with the uMLIPs, you may use the associated data
 
 ## Citation
 
-TBD
+Bowen Han, Yongqiang Cheng, [Benchmarking universal machine learning interatomic potentials for rapid analysis of inelastic neutron scattering data](https://iopscience.iop.org/article/10.1088/2632-2153/adfa68), Machine Learning: Science and Technology, 6, 030504 (2025).
 
